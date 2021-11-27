@@ -1,2 +1,2 @@
-# LIFO-Din-mica
+# LIFO-Dinamica
 LIFO dinâmica para empilhar nomes e salários de uma pessoa qualquer. 
